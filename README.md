@@ -1,2 +1,1 @@
-# SufficientConditions
-How to Use Deep Learning to Identify Sufficient Conditions
+# How to Use Deep Learning to Identify Sufficient Conditions
